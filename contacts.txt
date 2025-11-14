@@ -1,8 +1,1 @@
-dksfdjkf;djfdfdf;;kdfdkfdf;2020-02-03;dsk@fkdjf;;8(812)1234567;
-fldjfkdf;dkfjdkjfd;;kdjfkdjfd;2020-04-03;fjdkjfs@jfda;8(812)1234567;8(812)1234567;8(812)1234567
-fdjfjd;fdjfd fdf;fdfdfdf;fdfdf;2010-02-02;fkdfjd@kfjdjfd;8(812)1234567;8(812)1234567;8(812)1234567
-kfdjfdf;fjdjfdkf;jdfhdjfd;jfdfdf;2020-03-03;kfdkf@dkjfdkf;;88121234567;
-fkdmfkdf;dkfkdfg;kdgdgkdg;kdgmkdgdlg;2020-03-04;kfkg@fokdkfdk;;8(812)1234567;8(812)1234567
-heh;Heh;Heh;;2025-01-20;kuz@ya.com;+78121234567;8(812)1234567;8(812)123-45-67
-rafaef;adadad;adadadd;dadadad;2020-02-02;kuzp@dadsd;8(812)1234567;;
-Daniil;Kuznetsov;Romanovich;moscow;2020-10-10;kuzpunk@ya.ru;+78121234567;88121234567;+7(812)123-45-67
+
